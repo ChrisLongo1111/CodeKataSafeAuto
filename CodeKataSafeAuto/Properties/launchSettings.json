@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodeKataSafeAuto": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Input.txt\""
+    }
+  }
+}
